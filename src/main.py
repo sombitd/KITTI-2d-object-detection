@@ -17,7 +17,7 @@ import csv
 import warnings
 warnings.filterwarnings("ignore")
 
-def main(train_path = "/media/disk2/sombit/kitti/training/images/", 
+def main(train_path = "/media/disk2/sombit/kitti/training/image_02/", 
          val_path = "../data/train/images/", 
          labels_path = "../data/train/yolo_labels/", 
          weights_path = "../checkpoints/", 
