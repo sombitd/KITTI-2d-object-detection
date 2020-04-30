@@ -9,7 +9,7 @@ imageio==2.5.0
 kiwisolver==1.0.1
 matplotlib==3.0.3
 mkl-fft
-mkl-random==1.0.2
+mkl-random
 networkx==2.3
 numpy==1.15.0
 olefile==0.46
