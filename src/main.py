@@ -18,7 +18,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def main(train_path = "/media/disk2/sombit/kitti/training/image_02/", 
-         val_path = "../data/train/images/", 
+         val_path = "..media/disk2/sombit/kitti/training/image_02/", 
          labels_path = "../data/train/yolo_labels/", 
          weights_path = "../checkpoints/", 
          preload_weights_file = "darknet53.conv.74", 
